@@ -1,0 +1,44 @@
+/* start main rulez */
+
+body{
+    background-color: #F4f4f4;
+}
+.nice-massage{
+    padding: 10px;
+    margin-top: 15px;
+    border-left: 5px solid rgb(228, 214, 15);
+}
+/* end main rulez */
+
+/* .asterisk{
+    font-size :30px;
+    position: absolute;
+    right: 30px;
+    top: 8px;
+    color: #D20707;
+} */
+h2{
+         
+    font-size: 45px;
+    margin: 15px 0;
+    color: rgb(63, 61, 61);
+    font-weight: bold;
+}
+/* start login form */
+
+
+/* Start Bootstrap Edits */
+
+
+.nav > li >a , .navbar-brand{
+    padding: 10px 8px;
+}
+.navbar-brand{
+    font-size: 16px;
+}
+.form-control{
+    position: relative;
+}
+
+/* End Bootstrap Edits */
+

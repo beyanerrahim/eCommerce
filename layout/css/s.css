@@ -1,0 +1,154 @@
+.ul-main{
+    margin-left: 100px;
+}
+.link-h{
+   width: 35%;
+}
+.links-h a{
+   width: 65%;
+  color: rgb(230, 224, 224);
+  left: 50px;
+  margin-left: 15px;
+ 
+
+}
+.links-h a:hover{
+      text-decoration: none;
+      color: #fff;
+}
+/* .col-md-3 ,.col-sm-6{
+    margin: 0;
+} */
+/* start header */
+
+
+/* end header */
+
+/* Strat Login Page*/
+
+.login-page form{
+    max-width: 300px;
+    margin: auto;
+}
+
+.login-page form input{
+   margin-bottom: 10px;
+}
+
+.input-container{
+    position: relative;
+}
+.login-page [data-class="login"].selected {
+    color: #337ab7;
+}
+.login-page [data-class="signup"].selected {
+    color: #5cb85c;
+}
+
+.login-page h2{
+    font-size: 45px;
+    margin: 15px 0;
+    color: rgb(212, 208, 208);
+    font-weight: bold;
+}
+.login-page h2 span{
+    cursor: pointer;
+
+}
+.login-page .signup{
+    display: none;
+}
+/* End Login Page*/
+.upper-bar{
+     padding: 10px;
+     color: rgb(121, 106, 106);
+}
+/* start categories page */
+
+.item-box{
+    position: relative;
+    background-color: #fff;
+}
+.item-box .price-tag{
+    background-color: rgb(222, 226, 225);
+    width: 55px;
+    padding: 2px 5px;
+    position: absolute;
+    left: 0px;
+    right: 10px;
+    font-weight: bold;
+    
+
+}
+
+/* end categories page */
+
+/* start profile page*/
+/* .information{
+    margin-top: 20px;
+}
+.information ul{
+    padding: 0;
+    margin: 0;
+}
+.information ul li{
+    pad: 10px;
+}
+.information ul li:nth-child(odd){
+    background-color: #eee;
+}
+.information ul li span{
+    display: inline-block;
+    width: 10px;
+} */
+/* end profile page */
+/* .main-form{
+    font-size: 30px;
+    position: absolute;
+    right: 30px;
+    top: 8px;
+    color: #d20707;
+}
+.thumbnail .date{
+    text-align: right;
+    font-size: 13px;
+    color: #AAA;
+    font-weight: bold;
+} */
+
+/* Start show item page*/
+/* .item-info h3{
+    padding: 10px;
+    margin: 0;
+}
+.item-info p{
+    padding: 10px;
+}
+.item-info ul li{
+    padding: 10px 0;
+}
+.item-info ul li:nth-child(odd){
+    background-color: #e8e8e8;
+}
+.item-info ul li span{
+    display: inline-block;
+    width: 10px;
+}
+.add-comment h3{
+    margin: 0 0 10px;
+}
+.add-comment textarea{
+    display: block;
+    margin-bottom: 10px;
+    width: 500px;
+    height: 120px;
+} */
+/* End show item page*/
+
+/* start our custom */
+/* .custom-hr{
+   
+    border-top: 1px solid #c9c9c9;
+} */
+
+/* end our custom */
